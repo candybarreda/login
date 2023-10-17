@@ -1,0 +1,214 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+   
+	background-color: black;
+}
+.card_container_login{
+    font-family: Montserrat;
+    width: 800px;
+    height: 600px;
+    background-color: #1B0926;
+    position: relative;
+}
+.card_spedy_1{
+    position: relative;
+    bottom: 39px;
+    left: 34px;
+
+}
+
+.card_sepidy{   
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 1.98px;
+    text-transform: uppercase;
+    background: linear-gradient(91deg, rgba(255, 255, 255, 0.81) 0.94%, rgba(205, 100, 255, 0.74) 118.2%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    position: absolute;
+}
+.card_space{
+    width: 370.69px;
+    height: 369.64px;
+    padding: 33px 403.31px 197.38px 26px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card_elipse_5{
+    width: 291.304px;
+    height: 289.585px;
+    transform: rotate(19.315deg);
+    border-radius: 291.304px;
+    opacity: 0.9;
+    background: var(--Linear, linear-gradient(180deg, #FC00FF 0%, #00DBDE 100%)); 
+}
+.card_space_elipse_7{
+    padding: 77.6px 195.4px 416.66px 498.86px;
+    position: absolute;
+    top: 0;
+}
+.card_elipse_7{
+    width: 90px;
+    height: 90px;
+    transform: rotate(101.179deg);
+    background: linear-gradient(180deg, #FFCC70 0%, #C850C0 100%);
+    opacity: 0.6;
+    border-radius: 50px;
+    
+}
+.card_space_elipse_6{
+    padding: 338.6px 96.14px 89.4px 525.86px; 
+    position: absolute;
+    top: 0;
+}
+.card_elipse_6{
+    width: 178px;
+    height: 178px;
+    background: radial-gradient(50% 50% at 50% 50%, #26CDFD 0%, #B721FF 100%);
+    opacity: 0.8;
+    border-radius: 100px;
+
+}
+.card_space_elipse_9{
+    padding: 149.6px 388.14px 426.4px 387.86px;
+    position: absolute;
+    top: 0;
+}
+.card_elipse_9{
+   width: 24px;
+   height: 24px;
+   border-radius: 100px;
+   background-color: rgba(255, 255, 255, 0.45); 
+}
+.card_space_group_3{
+    position: absolute;
+    top: 0;
+    padding: 113.6px 185.14px 120.4px 208.86px;
+}
+.card_group_3{
+    width: 406px;
+    height: 366px;
+    border-radius: 12px;
+}
+.card_rectangle_22{
+    width: 406px;
+    height: 366px;
+    border-radius: 24px;
+    border: 1.3px solid #FFF;
+    background: linear-gradient(149deg, rgba(255, 255, 255, 0.24) 5.07%, rgba(178, 57, 235, 0.07) 99.27%);
+    box-shadow: -3px 18px 37px 0px rgba(28, 8, 41, 0.34), -61px -45px 77px 0px rgba(38, 13, 53, 0.16);
+    backdrop-filter: blur(17px);    
+}
+.card_ux{
+    position: relative;
+    padding: 36px 103px 0px 44px
+}
+.card_ux_with_sepidenh{
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 26.82px;
+    letter-spacing: 3.63px;
+    text-transform: uppercase;
+    background: linear-gradient(90deg, #FFF 1.96%, rgba(255, 255, 255, 0.79) 103.04%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    mix-blend-mode: overlay;
+    position:absolute
+}
+.card_ux_with_sepidenh_1{
+    opacity: 0.8;
+}
+.card_nam{
+    padding: 45px 310px 0 44px;
+    position:relative;
+}
+.card_name{
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0.96px;
+    text-transform: capitalize;
+    background: linear-gradient(84deg, #FFF 6.16%, rgba(255, 255, 255, 0.00) 168.75%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    mix-blend-mode: overlay;
+    position: absolute;
+}
+.card_name_1{
+    opacity: 0.8;
+}
+.card_group_1{
+    position: relative;
+    padding: 30px 48px 0 44px;
+
+}
+.card_linea_4{
+    width: 311px;
+    height: 1px;
+    background: linear-gradient(90deg, #FFF -4.59%, rgba(255, 255, 255, 0.00) 121.64%);
+    mix-blend-mode: overlay;
+    position: absolute;
+}
+.card_emai{
+    position: relative;
+    padding: 50px 312px 0 44px;
+}
+.card_Email{
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0.96px;
+    text-transform: capitalize;
+    opacity: 0.8;
+    background: linear-gradient(84deg, #FFF 6.16%, rgba(255, 255, 255, 0.00) 168.75%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    mix-blend-mode: overlay;  
+    position: absolute;      
+}
+.card_Email_1{
+    opacity: 0.8;
+}
+.card_group_2{
+
+    padding: 30px 48px 0 44px;
+
+}
+.card_rect{
+    padding: 46px 48px 0px 47px;
+}
+.card_rectangle_26{
+    width: 311px;
+    height: 58px;
+    border-radius: 10px;
+    border: 1px solid #FFF;
+    position: relative;
+}
+.card_suscri{
+    position: relative;
+    padding:16px 70.86px 15px 70.14px;
+}
+
+.card_suscribe{
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: 4.73px;
+    text-transform: uppercase;
+    background: linear-gradient(90deg, #FFF 1.96%, rgba(255, 255, 255, 0.36) 103.04%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    mix-blend-mode: overlay;    
+    position: absolute;
+}
+.card_suscribe_1{
+    opacity: 0.8;
+}
+
+
